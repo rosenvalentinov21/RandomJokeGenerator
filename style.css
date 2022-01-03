@@ -1,0 +1,28 @@
+body{
+    background-color:teal;
+}
+
+h1{
+    text-align: center;
+    color:limegreen;
+    font-weight: 300;
+}
+
+#button{
+    padding: 1rem;
+    font-size: large;
+    text-align: center;
+    color: limegreen;
+    font-weight: 300;
+    border-radius: 25%;
+    border : 3px solid limegreen;
+    margin-left: 47%;
+}
+
+#container{
+    margin-top: 5rem;
+    color: honeydew;
+    text-align: center;
+    font-weight: 200;
+    font-size: 1.5rem;
+}
